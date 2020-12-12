@@ -1,0 +1,26 @@
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp3/Exp3.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e3.csv -o Reports-UniquesRules/e3_OringData
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp3/e3_Hist_Mod1_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e3.csv -o Reports-UniquesRules/e3_Mod1
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp3/e3_Hist_Mod2_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e3.csv -o Reports-UniquesRules/e3_Mod2
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp3/e3_Hist_Mod3_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e3.csv -o Reports-UniquesRules/e3_Mod3
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp3/e3_Hist_Mod4_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e3.csv -o Reports-UniquesRules/e3_Mod4
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp3/e3_Hist_Mod5_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e3.csv -o Reports-UniquesRules/e3_Mod5
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp3/e3_Hist_Mod6_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e3.csv -o Reports-UniquesRules/e3_Mod6
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp3/e3_Hist_Mod7_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e3.csv -o Reports-UniquesRules/e3_Mod7
+
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp4/Exp4.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e4.csv -o Reports-UniquesRules/e2_OringData
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp4/e4_Hist_Mod1_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e4.csv -o Reports-UniquesRules/e4_Mod1
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp4/e4_Hist_Mod2_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e4.csv -o Reports-UniquesRules/e4_Mod2
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp4/e4_Hist_Mod3_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e4.csv -o Reports-UniquesRules/e4_Mod3
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp4/e4_Hist_Mod4_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e4.csv -o Reports-UniquesRules/e4_Mod4
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp4/e4_Hist_Mod5_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e4.csv -o Reports-UniquesRules/e4_Mod5
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp4/e4_Hist_Mod6_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e4.csv -o Reports-UniquesRules/e4_Mod6
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp4/e4_Hist_Mod7_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e4.csv -o Reports-UniquesRules/e4_Mod7
+
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp5/Exp5.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e5.csv -o Reports-UniquesRules/e5_OringData
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp5/e5_Hist_Mod1_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e5.csv -o Reports-UniquesRules/e5_Mod1
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp5/e5_Hist_Mod2_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e5.csv -o Reports-UniquesRules/e5_Mod2
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp5/e5_Hist_Mod3_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e5.csv -o Reports-UniquesRules/e5_Mod3
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp5/e5_Hist_Mod4_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e5.csv -o Reports-UniquesRules/e5_Mod4
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp5/e5_Hist_Mod5_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e5.csv -o Reports-UniquesRules/e5_Mod5
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp5/e5_Hist_Mod6_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e5.csv -o Reports-UniquesRules/e5_Mod6
+call python ruleValidator_v3.py -i DataStack/UniquesRows/Testing/Exp5/e5_Hist_Mod7_StackTestDriver_seed0_limit8000.csv -r Rules/UniquesRows/sup02con1/RulesUnion_sup_02conf_1_e5.csv -o Reports-UniquesRules/e5_Mod7

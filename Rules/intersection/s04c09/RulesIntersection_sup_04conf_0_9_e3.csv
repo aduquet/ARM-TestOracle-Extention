@@ -1,0 +1,5 @@
+,LHS,LHS_size,RHS,RHS_size,conf,sup,lift,cov
+0,"('isEmpty == ""true""',)",1,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.5720363771738552,1.7481405727036072,427963622.8261447
+1,"('isEmpty_p == ""True""',)",1,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.5720363771738552,1.6995064986713426,411593894.59128857
+2,"('peek_obj_type_p == ""class java.lang.String""',)",1,"('isEmpty_p == ""True""',)",1,0.9721795404833782,0.5720363771738552,1.6995064986713426,15.383053151490804
+3,"('peek_obj_type == ""emptyobject""',)",1,"('isEmpty == ""true""',)",1,1.0,0.5720363771738552,1.7481405727036072,427963622.8261447

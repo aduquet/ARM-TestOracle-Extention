@@ -1,0 +1,2 @@
+,LHS,LHS_size,RHS,RHS_size,conf,sup,lift,cov
+0,"('isEmpty == ""false""',)",1,"('isEmpty_p == ""False""',)",1,0.9347826086956522,0.7543859649122807,0.991304347826087,0.8742689924424952

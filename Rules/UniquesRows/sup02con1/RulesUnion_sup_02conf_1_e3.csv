@@ -1,0 +1,17 @@
+,LHS,LHS_size,RHS,RHS_size,conf,sup,lift,cov
+0,"('calledMethod == ""push""', 'calledMethod_p == ""push""')",2,"('isEmpty_p == ""False""',)",1,1.0,0.20444444444444446,1.1538461538461537,133333333.3333333
+1,"('calledMethod == ""push""', 'calledMethod_p == ""push""', 'isEmpty_p == ""False""')",3,"('isEmpty == ""false""',)",1,1.0,0.20444444444444446,1.4423076923076923,306666666.6666666
+2,"('calledMethod == ""push""', 'calledMethod_p == ""push""', 'isEmpty == ""false""')",3,"('isEmpty_p == ""False""',)",1,1.0,0.20444444444444446,1.1538461538461537,133333333.3333333
+3,"('calledMethod == ""push""', 'calledMethod_p == ""push""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""False""')",2,1.0,0.20444444444444446,1.666666666666667,400000000.0
+4,"('calledMethod == ""pop""', 'calledMethod_p == ""push""', 'isEmpty == ""false""')",3,"('isEmpty_p == ""False""',)",1,1.0,0.20444444444444446,1.1538461538461537,133333333.3333333
+5,"('calledMethod == ""push""', 'calledMethod_p == ""push""')",2,"('isEmpty == ""false""',)",1,1.0,0.20444444444444446,1.4423076923076923,306666666.6666666
+6,"('calledMethod_p == ""push""', 'isEmpty == ""false""')",2,"('isEmpty_p == ""False""',)",1,1.0,0.4088888888888889,1.1538461538461537,133333333.3333333
+7,"('calledMethod == ""pop""', 'isEmpty == ""false""')",2,"('isEmpty_p == ""False""',)",1,1.0,0.28444444444444444,1.1538461538461537,133333333.3333333
+8,"('isEmpty == ""true""',)",1,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.30666666666666664,3.260869565217391,693333333.3333334
+9,"('peek_obj_type == ""emptyobject""',)",1,"('isEmpty == ""true""',)",1,1.0,0.30666666666666664,3.260869565217391,693333333.3333334
+10,"('calledMethod == ""push""', 'isEmpty_p == ""False""')",2,"('isEmpty == ""false""',)",1,1.0,0.31555555555555553,1.442307692307692,306666666.6666666
+11,"('calledMethod == ""pop""', 'calledMethod_p == ""push""')",2,"('isEmpty_p == ""False""',)",1,1.0,0.2577777777777778,1.1538461538461537,133333333.3333333
+12,"('isEmpty_p == ""False""', 'peek_obj_type == ""emptyobject""')",2,"('isEmpty == ""true""',)",1,1.0,0.26666666666666666,3.260869565217391,693333333.3333334
+13,"('isEmpty == ""true""', 'isEmpty_p == ""False""')",2,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.26666666666666666,3.260869565217391,693333333.3333334
+14,"('calledMethod == ""push""',)",1,"('isEmpty == ""false""',)",1,1.0,0.4088888888888889,1.4423076923076923,306666666.6666666
+15,"('calledMethod_p == ""push""',)",1,"('isEmpty_p == ""False""',)",1,1.0,0.5644444444444444,1.1538461538461537,133333333.3333333

@@ -1,0 +1,2 @@
+,LHS,LHS_size,RHS,RHS_size,conf,sup,lift,cov
+0,"('calledMethod_p == ""push""',)",1,"('isEmpty_p == ""False""',)",1,1.0,0.6512820512820513,1.0833333333333333,76923076.92307687

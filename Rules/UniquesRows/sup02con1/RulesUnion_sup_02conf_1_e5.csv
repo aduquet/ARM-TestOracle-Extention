@@ -1,0 +1,35 @@
+,LHS,LHS_size,RHS,RHS_size,conf,sup,lift,cov
+0,"('calledMethod_p == ""pop""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('calledMethod == ""push""',)",1,1.0,0.26560943844326973,1.0421556886227543,40450471.15605604
+1,"('calledMethod == ""push""', 'calledMethod_p == ""pop""', 'isEmpty_p == ""True""')",3,"('isEmpty == ""false""',)",1,1.0,0.26560943844326973,1.0011504832029452,1149161.112387942
+2,"('calledMethod == ""push""', 'calledMethod_p == ""push""')",2,"('isEmpty_p == ""False""',)",1,1.0,0.3257606490872211,2.0633370535714284,515348208.2488167
+3,"('calledMethod == ""push""', 'calledMethod_p == ""clear""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.4340770791075051,1.9404355812122802,484651791.7511832
+4,"('calledMethod == ""push""', 'calledMethod_p == ""CTOR""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.22839818089944416,1.5270061728395063,345123799.8989388
+5,"('calledMethod == ""push""', 'calledMethod_p == ""push""')",2,"('isEmpty == ""false""',)",1,1.0,0.3257606490872211,1.0020325203252032,2028397.5659228791
+6,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""',)",1,1.0,0.514131169709263,1.0299442896935933,29073698.444895156
+7,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""',)",1,1.0,0.514131169709263,1.0020325203252034,2028397.5659228791
+8,"('calledMethod_p == ""CTOR""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('calledMethod == ""push""',)",1,1.0,0.22839818089944416,1.0157833953548057,15538150.581101527
+9,"('calledMethod == ""push""', 'calledMethod_p == ""CTOR""', 'isEmpty_p == ""True""')",3,"('isEmpty == ""false""',)",1,1.0,0.22839818089944416,1.0018984938615365,1894896.4123294274
+10,"('calledMethod == ""push""', 'calledMethod_p == ""CTOR""', 'isEmpty == ""false""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.22839818089944416,1.5270061728395063,345123799.8989388
+11,"('calledMethod_p == ""CTOR""', 'isEmpty == ""false""')",2,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,1.0,0.22839818089944416,1.529661835748792,346260737.7463366
+12,"('calledMethod == ""push""',)",1,"('isEmpty == ""false""',)",1,1.0,0.9709263015551048,1.0020325203252034,2028397.5659228791
+13,"('calledMethod == ""push""', 'isEmpty_p == ""False""')",2,"('isEmpty == ""false""',)",1,1.0,0.4567951318458418,1.0020325203252034,2028397.5659228791
+14,"('calledMethod == ""push""', 'calledMethod_p == ""CTOR""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.22839818089944416,1.529661835748792,346260737.7463366
+15,"('calledMethod == ""push""', 'calledMethod_p == ""push""', 'isEmpty_p == ""False""')",3,"('isEmpty == ""false""',)",1,1.0,0.3257606490872211,1.0020325203252032,2028397.5659228791
+16,"('calledMethod == ""push""', 'calledMethod_p == ""push""', 'isEmpty == ""false""')",3,"('isEmpty_p == ""False""',)",1,1.0,0.3257606490872211,2.0633370535714284,515348208.2488167
+17,"('calledMethod == ""push""', 'calledMethod_p == ""push""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""False""')",2,1.0,0.3257606490872211,2.066797093348239,516159567.27518594
+18,"('calledMethod_p == ""push""',)",1,"('isEmpty_p == ""False""',)",1,1.0,0.3496957403651116,2.063337053571429,515348208.2488167
+19,"('calledMethod == ""push""', 'calledMethod_p == ""CTOR""')",2,"('isEmpty == ""false""',)",1,1.0,0.22839818089944416,1.0018984938615365,1894896.4123294274
+20,"('calledMethod_p == ""clear""', 'isEmpty == ""false""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.4340770791075051,1.9404355812122802,484651791.7511832
+21,"('calledMethod_p == ""CTOR""',)",1,"('isEmpty_p == ""True""',)",1,1.0,0.22877716018191005,1.5270061728395063,345123799.8989388
+22,"('calledMethod == ""push""', 'calledMethod_p == ""pop""')",2,"('isEmpty == ""false""',)",1,1.0,0.2915038688424117,1.0011504832029452,1149161.112387942
+23,"('calledMethod_p == ""clear""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('calledMethod == ""push""',)",1,1.0,0.4340770791075051,1.0299442896935933,29073698.444895156
+24,"('calledMethod == ""push""', 'calledMethod_p == ""clear""', 'isEmpty_p == ""True""')",3,"('isEmpty == ""false""',)",1,1.0,0.4340770791075051,1.0020325203252032,2028397.5659228791
+25,"('calledMethod == ""push""', 'calledMethod_p == ""clear""', 'isEmpty == ""false""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.4340770791075051,1.9404355812122802,484651791.7511832
+26,"('calledMethod_p == ""clear""', 'isEmpty == ""false""')",2,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,1.0,0.4340770791075051,1.9450289321409784,485868830.290737
+27,"('calledMethod == ""push""', 'calledMethod_p == ""clear""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.4340770791075051,1.9450289321409784,485868830.290737
+28,"('calledMethod_p == ""push""', 'isEmpty == ""false""')",2,"('isEmpty_p == ""False""',)",1,1.0,0.349290060851927,2.0633370535714284,515348208.2488167
+29,"('calledMethod_p == ""clear""', 'isEmpty == ""false""')",2,"('calledMethod == ""push""',)",1,1.0,0.4340770791075051,1.0299442896935933,29073698.444895156
+30,"('calledMethod == ""push""', 'calledMethod_p == ""clear""')",2,"('isEmpty == ""false""',)",1,1.0,0.4340770791075051,1.0020325203252032,2028397.5659228791
+31,"('calledMethod_p == ""CTOR""', 'isEmpty == ""false""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.22839818089944416,1.5270061728395063,345123799.8989388
+32,"('calledMethod_p == ""CTOR""', 'isEmpty == ""false""')",2,"('calledMethod == ""push""',)",1,1.0,0.22839818089944416,1.0157833953548057,15538150.581101527
+33,"('calledMethod_p == ""clear""',)",1,"('isEmpty_p == ""True""',)",1,1.0,0.43448275862068964,1.9404355812122802,484651791.7511832

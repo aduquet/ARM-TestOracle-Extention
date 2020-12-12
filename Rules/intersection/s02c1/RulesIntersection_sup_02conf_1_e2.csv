@@ -1,0 +1,316 @@
+,LHS,LHS_size,RHS,RHS_size,conf,sup,lift,cov
+0,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+1,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+2,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+3,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+4,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+5,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+6,"('isEmpty_p == ""False""', 'peek_obj_type == ""emptyobject""')",2,"('isEmpty == ""true""', 'size == ""0.0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+7,"('isEmpty == ""true""', 'isEmpty_p == ""False""')",2,"('peek_obj_type == ""emptyobject""', 'size == ""0.0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+8,"('isEmpty_p == ""False""', 'peek_obj_type == ""emptyobject""', 'size == ""0.0""')",3,"('isEmpty == ""true""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+9,"('isEmpty == ""true""', 'isEmpty_p == ""False""', 'size == ""0.0""')",3,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+10,"('isEmpty == ""true""', 'isEmpty_p == ""False""', 'peek_obj_type == ""emptyobject""')",3,"('size == ""0.0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+11,"('isEmpty_p == ""False""', 'size == ""0.0""')",2,"('isEmpty == ""true""', 'peek_obj_type == ""emptyobject""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+12,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+13,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+14,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+15,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+16,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+17,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""')",3,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+18,"('size == ""1.0""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty == ""false""')",2,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+19,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+20,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'size == ""1.0""')",2,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+21,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+22,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+23,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+24,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+25,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+26,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+27,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",4,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+28,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+29,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+30,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+31,"('isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+32,"('size_p == ""1""',)",1,"('isEmpty_p == ""False""',)",1,1.0,0.337486431639058,1.9952447091504038,498808343.9520505
+33,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+34,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+35,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+36,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+37,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+38,"('size == ""0.0""',)",1,"('isEmpty == ""true""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+39,"('isEmpty == ""true""',)",1,"('size == ""0.0""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+40,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+41,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+42,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+43,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+44,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+45,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+46,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+47,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+48,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+49,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+50,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+51,"('size_p == ""0""',)",1,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.4988083439520506,1.9243046883868773,480331775.9214687
+52,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('size == ""1.0""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+53,"('size == ""1.0""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+54,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+55,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+56,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+57,"('peek_obj_type == ""emptyobject""', 'size == ""0.0""')",2,"('isEmpty == ""true""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+58,"('isEmpty == ""true""', 'size == ""0.0""')",2,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+59,"('isEmpty == ""true""', 'peek_obj_type == ""emptyobject""')",2,"('size == ""0.0""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+60,"('size == ""0.0""',)",1,"('isEmpty == ""true""', 'peek_obj_type == ""emptyobject""')",2,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+61,"('peek_obj_type == ""emptyobject""',)",1,"('isEmpty == ""true""', 'size == ""0.0""')",2,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+62,"('isEmpty == ""true""',)",1,"('peek_obj_type == ""emptyobject""', 'size == ""0.0""')",2,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+63,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,"('isEmpty == ""false""',)",1,1.0,0.30519373259710225,1.9952447091504038,498808343.9520505
+64,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('calledMethod == ""push""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+65,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+66,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'size == ""1.0""')",2,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+67,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('isEmpty == ""false""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+68,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+69,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",4,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+70,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+71,"('isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty == ""false""')",2,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+72,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('size == ""1.0""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+73,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",4,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+74,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+75,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+76,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('isEmpty == ""false""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+77,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+78,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+79,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+80,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+81,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+82,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+83,"('peek_obj_type == ""emptyobject""',)",1,"('isEmpty == ""true""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+84,"('isEmpty == ""true""',)",1,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+85,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+86,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+87,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+88,"('size == ""1.0""', 'size_p == ""0""')",2,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+89,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+90,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+91,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+92,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+93,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+94,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+95,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+96,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+97,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+98,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+99,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+100,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+101,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+102,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+103,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",4,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+104,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",4,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+105,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+106,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+107,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('calledMethod == ""push""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+108,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+109,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+110,"('size == ""1.0""',)",1,"('isEmpty == ""false""',)",1,1.0,0.337486431639058,1.9952447091504038,498808343.9520505
+111,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+112,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+113,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",4,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+114,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+115,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'size == ""1.0""')",2,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+116,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+117,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+118,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+119,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""')",3,"('isEmpty_p == ""True""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+120,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+121,"('size == ""1.0""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+122,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+123,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+124,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+125,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+126,"('size == ""1.0""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+127,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('calledMethod == ""push""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+128,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+129,"('calledMethod_p == ""push""', 'size_p == ""1""')",2,"('isEmpty_p == ""False""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+130,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+131,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+132,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+133,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+134,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('calledMethod == ""push""', 'isEmpty == ""false""')",2,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+135,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+136,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+137,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""', 'size == ""1.0""')",2,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+138,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+139,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty_p == ""True""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+140,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('size == ""1.0""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+141,"('isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+142,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+143,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+144,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('isEmpty == ""false""', 'size == ""1.0""')",2,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+145,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,"('isEmpty == ""false""',)",1,1.0,0.3060786257020152,1.995244709150404,498808343.9520505
+146,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""')",3,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+147,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+148,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+149,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+150,"('size == ""0.0""',)",1,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+151,"('peek_obj_type == ""emptyobject""',)",1,"('size == ""0.0""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+152,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+153,"('isEmpty_p == ""True""', 'size_p == ""0""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.4988083439520506,1.9243046883868773,480331775.9214687
+154,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,"('size_p == ""0""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+155,"('size_p == ""0""',)",1,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+156,"('isEmpty_p == ""True""',)",1,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+157,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""')",3,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+158,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+159,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+160,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",5,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+161,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",5,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+162,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('calledMethod == ""push""', 'isEmpty == ""false""')",2,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+163,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+164,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+165,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+166,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('calledMethod == ""push""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+167,"('isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+168,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+169,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+170,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+171,"('size == ""1.0""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+172,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+173,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+174,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('size == ""1.0""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+175,"('calledMethod_p == ""push""',)",1,"('isEmpty_p == ""False""',)",1,1.0,0.45411534286658173,1.9952447091504038,498808343.9520505
+176,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+177,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+178,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+179,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+180,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+181,"('calledMethod == ""push""',)",1,"('isEmpty == ""false""',)",1,1.0,0.45411534286658173,1.9952447091504038,498808343.9520505
+182,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+183,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+184,"('size_p == ""0""',)",1,"('isEmpty_p == ""True""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+185,"('isEmpty_p == ""True""',)",1,"('size_p == ""0""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+186,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+187,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+188,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+189,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+190,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+191,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+192,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+193,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+194,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+195,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+196,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",4,"('size == ""1.0""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+197,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+198,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+199,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('isEmpty == ""false""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+200,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+201,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+202,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+203,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('size == ""1.0""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+204,"('size == ""1.0""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+205,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+206,"('size == ""1.0""', 'size_p == ""0""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+207,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+208,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+209,"('size == ""1.0""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+210,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+211,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+212,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+213,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+214,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+215,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+216,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+217,"('size == ""1.0""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+218,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+219,"('size == ""1.0""', 'size_p == ""0""')",2,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+220,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+221,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+222,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+223,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+224,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+225,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+226,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+227,"('size == ""1.0""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+228,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+229,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+230,"('isEmpty_p == ""False""', 'size == ""0.0""')",2,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+231,"('isEmpty_p == ""False""', 'peek_obj_type == ""emptyobject""')",2,"('size == ""0.0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+232,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+233,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+234,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+235,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+236,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+237,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+238,"('size == ""1.0""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",4,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+239,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+240,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+241,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",4,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+242,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+243,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('isEmpty_p == ""True""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+244,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+245,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",4,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+246,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+247,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+248,"('isEmpty_p == ""False""', 'size == ""0.0""')",2,"('isEmpty == ""true""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+249,"('isEmpty == ""true""', 'isEmpty_p == ""False""')",2,"('size == ""0.0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+250,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+251,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+252,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+253,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+254,"('isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+255,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+256,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",5,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+257,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",5,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+258,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",5,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+259,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",5,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+260,"('isEmpty_p == ""True""',)",1,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.4988083439520506,1.9243046883868773,480331775.9214687
+261,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+262,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'size_p == ""0""')",4,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+263,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+264,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+265,"('isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+266,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+267,"('size == ""1.0""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+268,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+269,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+270,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+271,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",4,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+272,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+273,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty == ""false""')",2,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+274,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('isEmpty == ""false""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+275,"('isEmpty == ""false""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+276,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+277,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+278,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+279,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+280,"('isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",3,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+281,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('calledMethod == ""push""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+282,"('calledMethod == ""push""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+283,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+284,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('isEmpty_p == ""True""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+285,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.276607260215719,694806267.4028977
+286,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+287,"('calledMethod == ""push""', 'size_p == ""0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+288,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+289,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",4,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+290,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",4,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+291,"('size == ""1.0""', 'size_p == ""0""')",2,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+292,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('isEmpty == ""false""', 'size == ""1.0""')",2,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+293,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('isEmpty == ""false""', 'size_p == ""0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+294,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""', 'size_p == ""0""')",4,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+295,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('size_p == ""0""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+296,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",4,"('calledMethod == ""push""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+297,"('peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""', 'size_p == ""0""')",3,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+298,"('isEmpty_p == ""True""', 'size == ""1.0""', 'size_p == ""0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+299,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('peek_obj_type_p == ""class java.lang.String""', 'size_p == ""0""')",2,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+300,"('isEmpty_p == ""False""', 'peek_obj_type == ""emptyobject""')",2,"('isEmpty == ""true""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+301,"('isEmpty == ""true""', 'isEmpty_p == ""False""')",2,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+302,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+303,"('calledMethod == ""push""', 'isEmpty == ""false""', 'size == ""1.0""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+304,"('calledMethod == ""push""', 'size == ""1.0""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+305,"('isEmpty_p == ""True""', 'size == ""1.0""')",2,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",3,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+306,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+307,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+308,"('calledMethod == ""push""', 'isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",4,"('isEmpty_p == ""True""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+309,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",4,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+310,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",4,"('size == ""1.0""',)",1,1.0,0.30489876822879797,2.9630820864214797,662513568.360942
+311,"('isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('calledMethod == ""push""', 'isEmpty == ""false""')",2,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+312,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'size == ""1.0""')",3,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+313,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('calledMethod == ""push""', 'size == ""1.0""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202
+314,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""', 'size == ""1.0""')",3,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,1.0,0.30489876822879797,3.279777107035059,695101231.771202

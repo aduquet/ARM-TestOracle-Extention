@@ -1,0 +1,18 @@
+,LHS,LHS_size,RHS,RHS_size,conf,sup,lift,cov
+0,"('isEmpty_p == ""False""', 'peek_obj_type == ""emptyobject""')",2,"('isEmpty == ""true""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+1,"('isEmpty == ""true""', 'isEmpty_p == ""False""')",2,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.30489876822879797,2.0047780116848406,501191656.04794943
+2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,"('isEmpty == ""false""',)",1,1.0,0.3060786257020152,1.995244709150404,498808343.9520505
+3,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
+4,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+5,"('calledMethod == ""push""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('isEmpty == ""false""',)",1,1.0,0.30489876822879797,1.9952447091504038,498808343.9520505
+6,"('calledMethod == ""push""', 'isEmpty == ""false""', 'isEmpty_p == ""True""')",3,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+7,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('calledMethod == ""push""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2671343766864545,693921374.2979848
+8,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('isEmpty == ""false""', 'peek_obj_type_p == ""class java.lang.String""')",2,1.0,0.30489876822879797,3.2638632162661736,693614611.3549484
+9,"('calledMethod_p == ""push""',)",1,"('isEmpty_p == ""False""',)",1,1.0,0.45411534286658173,1.9952447091504038,498808343.9520505
+10,"('isEmpty_p == ""True""',)",1,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.4988083439520506,1.9243046883868773,480331775.9214687
+11,"('isEmpty == ""false""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+12,"('calledMethod == ""push""', 'isEmpty_p == ""True""')",2,"('peek_obj_type_p == ""class java.lang.String""',)",1,1.0,0.30489876822879797,1.924304688386877,480331775.9214687
+13,"('calledMethod == ""push""',)",1,"('isEmpty == ""false""',)",1,1.0,0.45411534286658173,1.9952447091504038,498808343.9520505
+14,"('isEmpty == ""true""',)",1,"('peek_obj_type == ""emptyobject""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+15,"('peek_obj_type == ""emptyobject""',)",1,"('isEmpty == ""true""',)",1,1.0,0.4988083439520506,2.0047780116848406,501191656.04794943
+16,"('isEmpty == ""false""', 'isEmpty_p == ""True""', 'peek_obj_type_p == ""class java.lang.String""')",3,"('calledMethod == ""push""',)",1,1.0,0.30489876822879797,2.202083712229468,545884657.1334182
